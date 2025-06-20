@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   <a href="https://aayushbharti.in/">
     <img
-      alt="Aayush Bharti"
+      alt="Ayush sharma"
       src="./assets/banner.jpg"
       width="100%"
     />
@@ -230,7 +230,7 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AayushBharti&" alt="AayushBharti" /></p>            -->
 <!-- <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
+<!--
 <br/>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
@@ -248,6 +248,7 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
+-->
 
 <!-- <p align="center">Made with ❤️ in India</p> -->
 
