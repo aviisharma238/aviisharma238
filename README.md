@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on [ventora.in](https://ventora.in)
 
-- 🌱 I'm currently learning **Expo**
+- 🌱 I'm currently learning **linux**
 
 - 👨‍💻 All of my projects are available at [https://ayusharm1a.in/work](https://ayusharm1a.in/work)
 
