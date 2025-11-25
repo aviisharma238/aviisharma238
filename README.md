@@ -251,8 +251,8 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- <p align="center">Made with ❤️ in India</p> -->
 
-  <!-- <div align="center">
+   <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aayushbharti&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
   <a href="https://github.com/aayushbharti/aayushbharti"><img alt="aayushbharti's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=aayushbharti&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
   </a>
-  </div> -->
+  </div>
