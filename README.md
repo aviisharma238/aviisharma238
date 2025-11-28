@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- <h1 align="center"><a href="https://aayushbharti.in/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Aayush Bharti" /></a></h1> -->
 
-  <a href="https://ayusharma.in/">
+  <a href="https://aviisharma.vercel.app/">
     <img
       alt="Ayush sharma"
       src="./assets/banner.jpg"
@@ -75,9 +75,9 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently learning **linux**
 
-- 👨‍💻 All of my projects are available at [https://ayusharm1a.in/work](https://ayusharm1a.in/work)
+- 👨‍💻 All of my projects are available at [https://ayusharm1a.in/work](https://aviisharma.vercel.app/work)
 
-- 📝 I regularly write articles on [ayusharm1a.in/blog](https://ayusharm1a.in/blog)
+- 📝 I regularly write articles on [ayusharm1a.in/blog](https://aviisharma.vercel.app/blog)
 
 - 💬 Ask me about **next.js, typescript, framer motion, node.js**
 
@@ -230,23 +230,40 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!-- <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-<br/>
+<details>
+  <summary>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
+    <b>Stats Overview</b>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+  </summary>
 
-<div align=center>
-  <img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aayushbharti&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
-  <img width=440  src="https://github-readme-stats-salesp07.vercel.app/api?username=aayushbharti&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
-  <img width=440 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/>
-</div>
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align=center>
-  <a href="https://aayushbharti.in"><img src="https://api.daily.dev/devcards/cf5f5602012c452cb9f62160dc185527.png?r=9qu" width="260" alt="Aayush Bharti's Dev Card"/></a>
-</div>
+  <div align="center">
+    <span>
+      <a href="https://aviisharma.vercel.app">
+        <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aviisharma238&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+      </a>
+    </span>
+    <span>
+      <a href="https://aviisharma.vercel.app/">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=aviisharma238&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" />
+      </a>
+    </span>
+    <span>
+      <a href=" https://aviisharma.vercel.app/">
+        <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=aviisharma238&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+      </a>
+    </span>
+    <span>
+      <a href=" https://aviisharma.vercel.app/">
+        <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aviisharma238&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
+      </a>
+    </span>
+  </div>
+</details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
 
 
 <!-- <p align="center">Made with ❤️ in India</p> -->
