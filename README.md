@@ -230,7 +230,7 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!-- <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-<details>
+
   <summary>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
     <b>Stats Overview</b>
@@ -262,14 +262,13 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       </a>
     </span>
   </div>
-</details>
+
 
 
 
 <!-- <p align="center">Made with ❤️ in India</p> -->
 
    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aviisharma238&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
   <a href="https://github.com/aviisharma238/aviisharma238"><img alt="ayush sharma Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=aviisharma238&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
   </a>
   </div>
