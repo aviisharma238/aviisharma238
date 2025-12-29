@@ -71,7 +71,6 @@ Here are some ideas to get you started:
 <a href="https://ayusharm1a.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 <h3>A Full Stack Engineer</h3>
 
-- 🔭 I'm currently working on [ventora.in](https://ventora.in)
 
 - 🌱 I'm currently learning **linux**
 
