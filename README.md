@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently learning **linux**
 
-- 👨‍💻 All of my projects are available at [https://ayusharm1a.in/work](https://aviisharma.vercel.app/work)
+- 👨‍💻 All of my projects are available at [ayusharm1a.in/work](https://aviisharma.vercel.app/work)
 
 - 📝 I regularly write articles on [ayusharm1a.in/blog](https://aviisharma.vercel.app/blog)
 
