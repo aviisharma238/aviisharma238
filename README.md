@@ -25,7 +25,7 @@ Here are some ideas to get you started:
       width="100%"
     />
   </a>
-
+<!--
  <div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
     Hi, I'm Aayush Bharti,
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
     a Full Stack Developer based in India.
   </span>
-</div> 
+</div> -->
 
 <br/>
 
