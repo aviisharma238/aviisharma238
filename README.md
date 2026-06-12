@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 <br/>
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=aviisharma238&label=Profile%20views&color=red&style=for-the-badge)](https://ayusharm1a.in)
-<a href="https://x.com/ayusharm1a" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Aayush Bharti | Twitter" ></img></a>
-<a href="https://linkedin.com/in/iAayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Aayush Bharti | Linkedin" /></a>
-<a href="https://github.com/aviisharma238" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Aayush Bharti | GitHub" /></a>
+<a href="https://x.com/ayusharm1a" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Ayush sharma | Twitter" ></img></a>
+<a href="https://linkedin.com/in/ayusharm1a" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Ayush sharma | Linkedin" /></a>
+<a href="https://github.com/aviisharma238" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Aayush sharma | GitHub" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://ayusharm1a.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 <h3>A Full Stack Engineer</h3>
