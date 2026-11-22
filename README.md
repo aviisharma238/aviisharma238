@@ -1,121 +1,121 @@
-## Hi there 👋
-
-<!--
-**aviisharma238/aviisharma238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> -->
-
-<!-- <h1 align="center"><a href="https://aayushbharti.in/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Aayush Bharti" /></a></h1> -->
-
-  <a href="https://aviisharma.vercel.app/">
-    <img
-      alt="Ayush sharma"
-      src="./assets/banner.png"
-      width="100%"
-    />
+<div align="center">
+  <a href="https://aviisharma.vercel.app">
+    <img src="./assets/banner.png" alt="Ayush Sharma Banner" width="100%" />
   </a>
-<!--
- <div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
-  <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
-    Hi, I'm Aayush Bharti,
-  </span>
-  <span classname="h-50 w-100"
-  style="display: inline-block; vertical-align: middle;">
-    <img
-      src="./assets/blueprofile.jpg"
-      alt="Aayush Bharti"
-      width="80"
-      style="border-radius: 24px; cursor: pointer; margin: 0 15px;"
-    />
-  </span>
-  <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
-    a Full Stack Developer based in India.
-  </span>
-</div> -->
+
+  <br/><br/>
+
+  <h1 align="center">
+    <a href="https://aviisharma.vercel.app">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Ayush+Sharma+%F0%9F%91%8B;Building+ParallaxUI+%26+Creative+Tools;Full+Stack+Engineer+%26+UI+Crafter;Crafting+Fluid+Spatial+Web+Experiences" alt="Typing SVG" />
+    </a>
+  </h1>
+
+  <p align="center">
+    <b>Full Stack Engineer & UI Crafter</b> based in India • Building modern interfaces, developer tools, and fluid motion libraries.
+  </p>
+
+  <p align="center">
+    <a href="https://aviisharma.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-aviisharma.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/ayusharm1a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ayush_Sharma-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/ayusharm1a" target="_blank"><img src="https://img.shields.io/badge/X-@ayusharm1a-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+    <a href="mailto:aviisharma238@gmail.com"><img src="https://img.shields.io/badge/Email-aviisharma238-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=aviisharma238&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+  </p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently building **[ParallaxUI](https://github.com/aviisharma238/parallaxui)** — an expressive, spatial UI component collection built for depth and seamless parallax interactions.
+- 🛠️ Crafting web applications and developer tools with **Next.js**, **TypeScript**, and **Tailwind CSS**.
+- 🌱 Deepening knowledge in **Linux Systems Architecture**, **High-Concurrency Backend Systems**, and **Creative Motion Design (GSAP / Framer Motion)**.
+- 💬 Ask me about **Next.js (App Router), React 19, TypeScript, UI/UX Engineering, AST Parsers, & Supabase**.
+- 📝 Sharing development notes and architecture breakdowns on my **[Blog](https://aviisharma.vercel.app/blog)**.
+- ⚡ **Fun Fact**: Obsessed with mechanical keyboard acoustics, design tokens, and sub-millisecond micro-interactions.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[ParallaxUI](https://github.com/aviisharma238/parallaxui)** | Modern, depth-focused UI component collection engineered for fluid spatial motion and parallax interactions. | `React` `Next.js` `Tailwind CSS` `Framer Motion` | [Code](https://github.com/aviisharma238/parallaxui) |
+| **[CodeAYNA](https://codeayna.vercel.app/)** | Automated syntax translation across 50+ programming languages powered by AST parsing. | `Next.js` `TypeScript` `AST Engine` `Tailwind CSS` | [Live Demo](https://codeayna.vercel.app/) • [Code](https://github.com/aviisharma238/codeayna) |
+| **[CapsLK](https://github.com/aviisharma238/CapsLK)** | Interactive acoustic mechanical keyboard simulator with zero-latency keystroke telemetry. | `React` `Next.js` `Web Audio API` `Framer Motion` | [Code](https://github.com/aviisharma238/CapsLK) |
+| **[Minimal Wall](https://aviisharma.vercel.app/work)** | High-resolution aesthetic wallpaper platform with intelligent color discovery and multi-aspect filtering. | `Next.js` `React` `Tailwind CSS` `Lucide` | [Overview](https://aviisharma.vercel.app/work) |
+| **[ITEngineersIndia](https://github.com/aviisharma238/itengineersindia)** | Modern, accessible agency platform engineered for sub-second page loads and inquiry conversion. | `Next.js` `Tailwind CSS` `Framer Motion` | [Code](https://github.com/aviisharma238/itengineersindia) |
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="left">
+
+**Frontend & Architecture**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,vite" alt="Frontend Stack" />
+</a>
 
 <br/>
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=aviisharma238&label=Profile%20views&color=red&style=for-the-badge)](https://ayusharm1a.in)
-<a href="https://x.com/ayusharm1a" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Ayush sharma | Twitter" ></img></a>
-<a href="https://linkedin.com/in/ayusharm1a" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Ayush sharma | Linkedin" /></a>
-<a href="https://github.com/aviisharma238" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Aayush sharma | GitHub" /></a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://ayusharm1a.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
-<h3>A Full Stack Engineer</h3>
-
-
-- 🌱 I'm currently learning **linux**
-
-- 👨‍💻 All of my projects are available at [ayusharm1a.in/work](https://aviisharma.vercel.app/work)
-
-- 📝 I regularly write articles on [ayusharm1a.in/blog](https://aviisharma.vercel.app/blog)
-
-- 💬 Ask me about **next.js, typescript, framer motion, node.js**
-
-- 📫 How to reach me **<ayusharm1a@gmail.com>**
+**Backend & Databases**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,mysql,postgres,postman" alt="Backend Stack" />
+</a>
 
 <br/>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+**Cloud, DevOps & Systems**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,cloudflare,vercel,git,github" alt="DevOps Stack" />
+</a>
 
-<p align="left">
-<!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
+<br/>
 
-![My Skills](https://skillicons.dev/icons?i=blender,html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,mongodb,mysql,jest,postman,vscode,vercel,vite,bash,linux,cloudflare,java,c,py,docker)
+**Design & Creative Tools**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,blender,vscode,notion" alt="Design Tools" />
+</a>
 
-  <!-- jest -->
-</p>
+</div>
 
-  <summary>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
-    <b>Stats Overview</b>
+---
 
-  
-  </summary>
+### 📊 GitHub Analytics
 
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-  <div align="center">
-    <span>
-      <a href="https://aviisharma.vercel.app">
-        <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aviisharma238&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
-      </a>
-    </span>
-    <span>
-      <a href="https://aviisharma.vercel.app/">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=aviisharma238&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" />
-      </a>
-    </span>
-    <span>
-      <a href=" https://aviisharma.vercel.app/">
-        <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=aviisharma238&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
-      </a>
-    </span>
-    <span>
-      <a href=" https://aviisharma.vercel.app/">
-        <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aviisharma238&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
-      </a>
-    </span>
-  </div>
-
-
-
-
-<!-- <p align="center">Made with ❤️ in India</p> -->
-
-   <div align="center">
-  <a href="https://github.com/aviisharma238/aviisharma238"><img alt="ayush sharma Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=aviisharma238&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+<div align="center">
+  <a href="https://aviisharma.vercel.app">
+    <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=aviisharma238&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10" alt="GitHub Stats" />
   </a>
-  </div>
+  <a href="https://aviisharma.vercel.app">
+    <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aviisharma238&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://aviisharma.vercel.app">
+    <img width="98%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aviisharma238&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/aviisharma238/aviisharma238">
+    <img width="98%" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=aviisharma238&bg_color=1a1b26&title_color=70a5fd&color=70a5fd&line=70a5fd&point=c0caf5&hide_border=true&custom_title=GitHub%20Contribution%20Activity" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Crafted with precision by <b>Ayush Sharma</b> • Powered by Next.js & Open Source</sub>
+</div>
