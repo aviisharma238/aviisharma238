@@ -3,7 +3,7 @@
     <img src="./assets/banner.png" alt="Ayush Sharma Banner" width="100%" />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <h1 align="center">
     <a href="https://aviisharma.vercel.app">
@@ -39,13 +39,13 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **[ParallaxUI](https://github.com/aviisharma238/parallaxui)** | Modern, depth-focused UI component collection engineered for fluid spatial motion and parallax interactions. | `React` `Next.js` `Tailwind CSS` `Framer Motion` | [Code](https://github.com/aviisharma238/parallaxui) |
-| **[CodeAYNA](https://codeayna.vercel.app/)** | Automated syntax translation across 50+ programming languages powered by AST parsing. | `Next.js` `TypeScript` `AST Engine` `Tailwind CSS` | [Live Demo](https://codeayna.vercel.app/) • [Code](https://github.com/aviisharma238/codeayna) |
-| **[CapsLK](https://github.com/aviisharma238/CapsLK)** | Interactive acoustic mechanical keyboard simulator with zero-latency keystroke telemetry. | `React` `Next.js` `Web Audio API` `Framer Motion` | [Code](https://github.com/aviisharma238/CapsLK) |
-| **[Minimal Wall](https://aviisharma.vercel.app/work)** | High-resolution aesthetic wallpaper platform with intelligent color discovery and multi-aspect filtering. | `Next.js` `React` `Tailwind CSS` `Lucide` | [Overview](https://aviisharma.vercel.app/work) |
-| **[ITEngineersIndia](https://github.com/aviisharma238/itengineersindia)** | Modern, accessible agency platform engineered for sub-second page loads and inquiry conversion. | `Next.js` `Tailwind CSS` `Framer Motion` | [Code](https://github.com/aviisharma238/itengineersindia) |
+| Project                                                                   | Description                                                                                                  | Tech Stack                                         | Links                                                                                         |
+| :------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------- | :------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| **[ParallaxUI](https://github.com/aviisharma238/parallaxui)**             | Modern, depth-focused UI component collection engineered for fluid spatial motion and parallax interactions. | `React` `Next.js` `Tailwind CSS` `Framer Motion`   | [Code](https://github.com/aviisharma238/parallaxui)                                           |
+| **[CodeAYNA](https://codeayna.vercel.app/)**                              | Automated syntax translation across 50+ programming languages powered by AST parsing.                        | `Next.js` `TypeScript` `AST Engine` `Tailwind CSS` | [Live Demo](https://codeayna.vercel.app/) • [Code](https://github.com/aviisharma238/codeayna) |
+| **[CapsLK](https://github.com/aviisharma238/CapsLK)**                     | Interactive acoustic mechanical keyboard simulator with zero-latency keystroke telemetry.                    | `React` `Next.js` `Web Audio API` `Framer Motion`  | [Code](https://github.com/aviisharma238/CapsLK)                                               |
+| **[Minimal Wall](https://aviisharma.vercel.app/work)**                    | High-resolution aesthetic wallpaper platform with intelligent color discovery and multi-aspect filtering.    | `Next.js` `React` `Tailwind CSS` `Lucide`          | [Overview](https://aviisharma.vercel.app/work)                                                |
+| **[ITEngineersIndia](https://github.com/aviisharma238/itengineersindia)** | Modern, accessible agency platform engineered for sub-second page loads and inquiry conversion.              | `Next.js` `Tailwind CSS` `Framer Motion`           | [Code](https://github.com/aviisharma238/itengineersindia)                                     |
 
 ---
 
@@ -56,7 +56,7 @@
 **Frontend & Architecture**
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,vite" alt="Frontend Stack" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,vite" alt="Frontend Stack" />
 </a>
 
 <br/>
@@ -64,7 +64,7 @@
 **Backend & Databases**
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,mysql,postgres,postman" alt="Backend Stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,mysql,postgres,postman" alt="Backend Stack" />
 </a>
 
 <br/>
@@ -72,7 +72,7 @@
 **Cloud, DevOps & Systems**
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,cloudflare,vercel,git,github" alt="DevOps Stack" />
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,cloudflare,vercel,git,github" alt="DevOps Stack" />
 </a>
 
 <br/>
@@ -80,7 +80,7 @@
 **Design & Creative Tools**
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,blender,vscode,notion" alt="Design Tools" />
+<img src="https://skillicons.dev/icons?i=figma,blender,vscode,notion" alt="Design Tools" />
 </a>
 
 </div>
@@ -102,7 +102,7 @@
 
 <div align="center">
   <a href="https://aviisharma.vercel.app">
-    <img width="98%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aviisharma238&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" />
+    <img width="50%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aviisharma238&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
@@ -110,7 +110,7 @@
 
 <div align="center">
   <a href="https://github.com/aviisharma238/aviisharma238">
-    <img width="98%" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=aviisharma238&bg_color=1a1b26&title_color=70a5fd&color=70a5fd&line=70a5fd&point=c0caf5&hide_border=true&custom_title=GitHub%20Contribution%20Activity" />
+    <img width="80%" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=aviisharma238&bg_color=1a1b26&title_color=70a5fd&color=70a5fd&line=70a5fd&point=c0caf5&hide_border=true&custom_title=GitHub%20Contribution%20Activity" />
   </a>
 </div>
 
